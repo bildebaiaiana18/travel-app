@@ -1,0 +1,19 @@
+.notification-list {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 400px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .notification-list {
+    left: 1rem;
+    right: 1rem;
+    max-width: none;
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "ru": {
+    "app": {
+      "title": "Планировщик Рабочих Поездок"
+    },
+    "common": {
+      "loading": "Загрузка...",
+      "save": "Сохранить",
+      "cancel": "Отмена",
+      "delete": "Удалить",
+      "edit": "Редактировать",
+      "view": "Просмотр",
+      "back": "Назад",
+      "search": "Поиск",
+      "filter": "Фильтр",
+      "reset": "Сбросить",
+      "viewAll": "Показать все",
+      "toggleTheme": "Переключить тему",
+      "error": "Ошибка"
+    },
+    "menu": {
+      "dashboard": "Главная",
+      "trips": "Поездки",
+      "profile": "Профиль",
+      "admin": "Админ панель"
+    },
+    "auth": {
+      "login": "Вход",
+      "register": "Регистрация",
+      "logout": "Выход",
+      "email": "Email",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердите пароль",
+      "name": "Имя",
+      "forgotPassword": "Забыли пароль?",
+      "sendReset": "Отправить",
+      "noAccount": "Нет аккаунта? Зарегистрируйтесь",
+      "hasAccount": "Уже есть аккаунт? Войдите",
+      "loginSuccess": "Успешный вход",
+      "welcomeBack": "Добро пожаловать обратно!",
+      "loginError": "Ошибка входа",
+      "registerSuccess": "Успешная регистрация",
+      "welcomeMessage": "Добро пожаловать!",
+      "registerError": "Ошибка регистрации",
+      "passwordMismatch": "Пароли не совпадают",
+      "resetSent": "Письмо отправлено",
+      "resetMessage": "Проверьте вашу почту для сброса пароля",
+      "error": "Ошибка"
+    },
+    "dashboard": {
+      "welcome": "Добро пожаловать",
+      "totalTrips": "Всего поездок",
+      "pendingTrips": "Ожидающие",
+      "approvedTrips": "Одобренные",
+      "completedTrips": "Завершенные",
+      "tripsChart": "График поездок по месяцам",
+      "recentTrips": "Последние поездки"
+    },
+    "trips": {
+      "title": "Поездки",
+      "createNew": "Создать поездку",
+      "createFirst": "Создать первую поездку",
+      "noTrips": "У вас пока нет поездок",
+      "destination": "Пункт назначения",
+      "startDate": "Дата начала",
+      "endDate": "Дата окончания",
+      "purpose": "Цель поездки",
+      "budget": "Бюджет",
+      "status": {
+        "pending": "Ожидание",
+        "approved": "Одобрено",
+        "rejected": "Отклонено",
+        "completed": "Завершено"
+      },
+      "filterByStatus": "Фильтр по статусу",
+      "allStatuses": "Все статусы",
+      "searchPlaceholder": "Поиск по назначению или цели...",
+      "created": "Поездка создана",
+      "updated": "Поездка обновлена",
+      "deleted": "Поездка удалена",
+      "confirmDelete": "Вы уверены, что хотите удалить эту поездку?"
+    },
+    "profile": {
+      "title": "Профиль",
+      "editProfile": "Редактировать профиль",
+      "changePassword": "Изменить пароль",
+      "currentPassword": "Текущий пароль",
+      "newPassword": "Новый пароль",
+      "avatar": "Аватар",
+      "role": "Роль",
+      "updated": "Профиль обновлен"
+    },
+    "admin": {
+      "title": "Админ панель",
+      "users": "Пользователи",
+      "allTrips": "Все поездки",
+      "statistics": "Статистика",
+      "changeRole": "Изменить роль",
+      "deleteUser": "Удалить пользователя",
+      "confirmDelete": "Вы уверены, что хотите удалить этого пользователя?"
+    }
+  },
+  "en": {
+    "app": {
+      "title": "Business Travel Planner"
+    },
+    "common": {
+      "loading": "Loading...",
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "view": "View",
+      "back": "Back",
+      "search": "Search",
+      "filter": "Filter",
+      "reset": "Reset",
+      "viewAll": "View All",
+      "toggleTheme": "Toggle Theme",
+      "error": "Error"
+    },
+    "menu": {
+      "dashboard": "Dashboard",
+      "trips": "Trips",
+      "profile": "Profile",
+      "admin": "Admin Panel"
+    },
+    "auth": {
+      "login": "Login",
+      "register": "Register",
+      "logout": "Logout",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "name": "Name",
+      "forgotPassword": "Forgot Password?",
+      "sendReset": "Send Reset",
+      "noAccount": "No account? Register",
+      "hasAccount": "Have an account? Login",
+      "loginSuccess": "Login Successful",
+      "welcomeBack": "Welcome back!",
+      "loginError": "Login Error",
+      "registerSuccess": "Registration Successful",
+      "welcomeMessage": "Welcome!",
+      "registerError": "Registration Error",
+      "passwordMismatch": "Passwords don't match",
+      "resetSent": "Email Sent",
+      "resetMessage": "Check your email for password reset",
+      "error": "Error"
+    },
+    "dashboard": {
+      "welcome": "Welcome",
+      "totalTrips": "Total Trips",
+      "pendingTrips": "Pending",
+      "approvedTrips": "Approved",
+      "completedTrips": "Completed",
+      "tripsChart": "Monthly Trips Chart",
+      "recentTrips": "Recent Trips"
+    },
+    "trips": {
+      "title": "Trips",
+      "createNew": "Create Trip",
+      "createFirst": "Create First Trip",
+      "noTrips": "You don't have any trips yet",
+      "destination": "Destination",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "purpose": "Purpose",
+      "budget": "Budget",
+      "status": {
+        "pending": "Pending",
+        "approved": "Approved",
+        "rejected": "Rejected",
+        "completed": "Completed"
+      },
+      "filterByStatus": "Filter by Status",
+      "allStatuses": "All Statuses",
+      "searchPlaceholder": "Search by destination or purpose...",
+      "created": "Trip Created",
+      "updated": "Trip Updated",
+      "deleted": "Trip Deleted",
+      "confirmDelete": "Are you sure you want to delete this trip?"
+    },
+    "profile": {
+      "title": "Profile",
+      "editProfile": "Edit Profile",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "avatar": "Avatar",
+      "role": "Role",
+      "updated": "Profile Updated"
+    },
+    "admin": {
+      "title": "Admin Panel",
+      "users": "Users",
+      "allTrips": "All Trips",
+      "statistics": "Statistics",
+      "changeRole": "Change Role",
+      "deleteUser": "Delete User",
+      "confirmDelete": "Are you sure you want to delete this user?"
+    }
+  }
+}
